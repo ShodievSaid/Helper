@@ -15,4 +15,4 @@ if(isset($_POST['btnPost']))
     exit;
 }
 //Изменение
-require_once "views/posts/deletePost.view.php";
+require_once "views/posts/deletePost.view.php";//bpvty+btty
