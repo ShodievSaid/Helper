@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="482fdb9a-538e-4ff6-a3b3-51782a3740c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/baseData.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ae2fd32-751f-49fa-93fa-41d0d1cc6f36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ae2fd32-751f-49fa-93fa-41d0d1cc6f36/storage_v2/_src_/schema/blog.oi8uAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ae2fd32-751f-49fa-93fa-41d0d1cc6f36/storage_v2/_src_/schema/car.1H8BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ae2fd32-751f-49fa-93fa-41d0d1cc6f36/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/0ae2fd32-751f-49fa-93fa-41d0d1cc6f36/storage_v2/_src_/schema/practice_posts.z0ffug.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PostData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daletePost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertPost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.2.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qwe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/showPost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updatePost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/reklama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/helper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/parts/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/parts/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/parts/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts/deletePost.View.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts/index.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts/insertPost.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts/showPost.view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/posts/updatePost.View.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daletePost.php" beforeDir="false" afterPath="$PROJECT_DIR$/daletePost.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +127,7 @@
       <workItem from="1581478334180" duration="219000" />
       <workItem from="1582709742862" duration="3136000" />
       <workItem from="1582881579260" duration="2256000" />
-      <workItem from="1583141073446" duration="1902000" />
+      <workItem from="1583141073446" duration="2648000" />
     </task>
     <servers />
   </component>

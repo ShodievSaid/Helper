@@ -14,5 +14,5 @@ if(isset($_POST['btnPost']))
     header("Location: /");
     exit;
 }
-
+//Изменение
 require_once "views/posts/deletePost.view.php";
